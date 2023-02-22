@@ -1,4 +1,5 @@
-![](https://img.shields.io/github/downloads/X00LA/Easy-SKSE64-Launcher/total?style=flat-square) [![](https://img.shields.io/badge/license-CC--BY--NC-green)](https://creativecommons.org/licenses/by-nc/4.0/)
+![](https://img.shields.io/github/downloads/X00LA/Easy-SKSE64-Launcher/total?style=flat-square) [![](https://img.shields.io/badge/license-CC--BY--NC-green)](https://creativecommons.org/licenses/by-nc/4.0/) ![](https://img.shields.io/badge/platform-Win%20x64-blue) [![](https://img.shields.io/badge/dependencies-.NET%206.0-orange)](https://download.visualstudio.microsoft.com/download/pr/035efed3-6386-4e1d-bcbc-384a20ebf47e/abfbea2303e0ce9cb15d430314e5858f/windowsdesktop-runtime-6.0.14-win-x64.exe
+)
 # THIS README IS IN ENGLISH AND GERMAN  
 ##### FÜR DIE DEUTSCHE VERSION BITTE NACH UNTEN SCOLLEN  
 
