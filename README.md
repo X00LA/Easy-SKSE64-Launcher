@@ -1,8 +1,7 @@
 ![](https://img.shields.io/github/downloads/X00LA/Easy-SKSE64-Launcher/total?style=flat-square) [![](https://img.shields.io/badge/license-CC--BY--NC-green?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/) ![](https://img.shields.io/badge/platform-Win%20x64-blue?style=flat-square) [![](https://img.shields.io/badge/dependencies-.NET%206.0-orange?style=flat-square)](https://download.visualstudio.microsoft.com/download/pr/035efed3-6386-4e1d-bcbc-384a20ebf47e/abfbea2303e0ce9cb15d430314e5858f/windowsdesktop-runtime-6.0.14-win-x64.exe
 )
-# THIS README IS IN ENGLISH AND GERMAN  
-##### FÜR DIE DEUTSCHE VERSION BITTE NACH UNTEN SCOLLEN  
-
+# THIS README IS IN [ENGLISH](https://github.com/X00LA/Easy-SKSE64-Launcher/edit/main/README.md#readme-for-the-easy-skse64-launcher-for-skyrim) AND [GERMAN](https://github.com/X00LA/Easy-SKSE64-Launcher/edit/main/README.md#readme-f%C3%BCr-den-easy-skse64-launcher-f%C3%BCr-skyrim)
+<br><br>
 ## README for the Easy SKSE64 Launcher for Skyrim  
   
 ### General information:  
@@ -37,9 +36,9 @@ To check this, you can run the following on the start page:
 Congratulations, you have successfully installed Easy SKSE64 Launcher!  
 
 (Should it unexpectedly NOT work, please repeat all steps again.)
-<br><br>
---
-<br><br>
+
+***
+
 ## README für den Easy SKSE64 Launcher für Skyrim
   
 ### Allgemeine Informationen:
