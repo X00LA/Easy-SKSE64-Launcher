@@ -23,7 +23,7 @@ launch an existing skse64_loader.exe without much effort.
   
 4. Now close the settings window and click on the "PLAY" button.
   
-If you have done everything correctly, your game should now start with your skse64_loader.exe.  
+If you have done everything correctly, your game should now start with your skse64_loader.exe.<br><br>
   
 To check this, you can run the following on the start page:  
   
@@ -55,12 +55,12 @@ um eine vorhandene skse64_loader.exe, ohne großen Aufwand, zu starten.
   
 3. Klicken SIe nun auf den Knopf "SUCHEN" um ihre skse64_loader.exe mit dem Programm zu verknüpfen.
    Die skse64_loader.exe liegt normalerweise im Hauptverzeichnis ihrer Skyrim Installation.
-  
-(Bsp.: D:\Steam Library\steamapps\common\Skyrim Special Edition\skse64_loader.exe)
+   
+   (Bsp.: D:\Steam Library\steamapps\common\Skyrim Special Edition\skse64_loader.exe)
   
 4. Schließen Sie nun das Einstellungsfenster und klicken Sie auf den Knopf "SPIELEN".
   
-Wenn SIe alles richtig gemacht haben sollte Ihr Spiel nun mit Ihrer skse64_loader.exe gestartet werden.
+Wenn SIe alles richtig gemacht haben sollte Ihr Spiel nun mit Ihrer skse64_loader.exe gestartet werden.<br><br>
   
 Um dies zu überprüfen, können sie auf der Startseite folgendes ausführen:
   
